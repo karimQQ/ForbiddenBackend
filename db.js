@@ -4,7 +4,7 @@ const sql = postgres({
     host: 'localhost',
     port: 5432,
     database: 'forbidden_gdz',
-    username: 'postgres',
+    username: 'userdb',
     password: '1234'
 })
 
